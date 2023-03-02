@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/productos/capsulas-de-colageno-bionutrients", {data:[{}],fetch:{},mutations:[]});

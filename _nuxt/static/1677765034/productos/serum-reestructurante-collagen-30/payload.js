@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/productos/serum-reestructurante-collagen-30", {data:[{}],fetch:{},mutations:[]});

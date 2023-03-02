@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/productos/serum-redensity-sulderm", {data:[{}],fetch:{},mutations:[]});

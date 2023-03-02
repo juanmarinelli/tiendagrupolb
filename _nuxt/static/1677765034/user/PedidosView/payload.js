@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/user/PedidosView", {data:[{}],fetch:{},mutations:[]});

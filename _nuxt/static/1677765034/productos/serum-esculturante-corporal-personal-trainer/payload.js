@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/productos/serum-esculturante-corporal-personal-trainer", {data:[{}],fetch:{},mutations:[]});

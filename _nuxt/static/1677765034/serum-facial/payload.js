@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/serum-facial", {data:[{}],fetch:{},mutations:[]});

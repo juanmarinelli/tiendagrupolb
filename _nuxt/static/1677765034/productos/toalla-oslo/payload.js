@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/productos/toalla-oslo", {data:[{}],fetch:{},mutations:[]});

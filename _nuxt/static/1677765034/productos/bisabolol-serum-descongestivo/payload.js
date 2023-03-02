@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/productos/bisabolol-serum-descongestivo", {data:[{}],fetch:{},mutations:[]});

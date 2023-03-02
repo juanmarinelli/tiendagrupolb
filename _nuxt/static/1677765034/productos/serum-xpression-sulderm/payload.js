@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/productos/serum-xpression-sulderm", {data:[{}],fetch:{},mutations:[]});

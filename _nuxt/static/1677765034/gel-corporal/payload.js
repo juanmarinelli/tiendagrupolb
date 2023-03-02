@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/gel-corporal", {data:[{}],fetch:{},mutations:[]});

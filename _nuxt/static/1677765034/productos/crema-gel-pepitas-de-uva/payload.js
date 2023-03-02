@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/productos/crema-gel-pepitas-de-uva", {data:[{}],fetch:{},mutations:[]});

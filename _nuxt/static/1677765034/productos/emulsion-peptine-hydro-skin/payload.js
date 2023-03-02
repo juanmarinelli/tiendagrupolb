@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/productos/emulsion-peptine-hydro-skin", {data:[{}],fetch:{},mutations:[]});

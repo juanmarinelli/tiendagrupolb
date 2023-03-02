@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/bruma-facial", {data:[{}],fetch:{},mutations:[]});

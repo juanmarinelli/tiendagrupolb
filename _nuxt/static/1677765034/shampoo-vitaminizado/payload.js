@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/shampoo-vitaminizado", {data:[{}],fetch:{},mutations:[]});

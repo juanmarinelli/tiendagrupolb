@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/productos/crema-hidratante-thermal-new", {data:[{}],fetch:{},mutations:[]});

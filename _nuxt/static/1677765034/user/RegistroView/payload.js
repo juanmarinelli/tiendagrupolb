@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/user/RegistroView", {data:[{}],fetch:{},mutations:[]});

@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/admin/AdminView", {data:[{}],fetch:{},mutations:[]});

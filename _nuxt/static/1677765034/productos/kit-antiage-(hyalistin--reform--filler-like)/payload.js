@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/productos/kit-antiage-(hyalistin--reform--filler-like)", {data:[{}],fetch:{},mutations:[]});

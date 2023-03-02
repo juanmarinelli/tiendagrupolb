@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/productos/locion-con-vitamina-c-estabilizada", {data:[{}],fetch:{},mutations:[]});

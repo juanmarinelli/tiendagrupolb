@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/emulsion-facial", {data:[{}],fetch:{},mutations:[]});

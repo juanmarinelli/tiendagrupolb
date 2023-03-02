@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/productos/crema-de-manos-anti--edad-con-rosas-alpinas-y-celulas-madre", {data:[{}],fetch:{},mutations:[]});

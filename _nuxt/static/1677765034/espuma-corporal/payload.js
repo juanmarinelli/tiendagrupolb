@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/espuma-corporal", {data:[{}],fetch:{},mutations:[]});

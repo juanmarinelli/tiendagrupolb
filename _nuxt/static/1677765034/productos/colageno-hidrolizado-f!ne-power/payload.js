@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/productos/colageno-hidrolizado-f!ne-power", {data:[{}],fetch:{},mutations:[]});

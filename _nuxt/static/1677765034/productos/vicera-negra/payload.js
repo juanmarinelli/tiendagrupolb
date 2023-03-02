@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/productos/vicera-negra", {data:[{}],fetch:{},mutations:[]});

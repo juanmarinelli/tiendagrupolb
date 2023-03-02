@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/productos/crema-gel-reform", {data:[{}],fetch:{},mutations:[]});

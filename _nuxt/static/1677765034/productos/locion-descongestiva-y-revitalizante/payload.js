@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/productos/locion-descongestiva-y-revitalizante", {data:[{}],fetch:{},mutations:[]});
