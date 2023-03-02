@@ -1,1 +1,0 @@
-__NUXT_JSONP__("/productos/serum-lipo-reductor-tensor", {data:[{}],fetch:{},mutations:[]});

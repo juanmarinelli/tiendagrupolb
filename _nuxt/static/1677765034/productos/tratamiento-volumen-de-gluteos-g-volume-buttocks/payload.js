@@ -1,1 +1,0 @@
-__NUXT_JSONP__("/productos/tratamiento-volumen-de-gluteos-g-volume-buttocks", {data:[{}],fetch:{},mutations:[]});

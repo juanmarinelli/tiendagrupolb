@@ -1,1 +1,0 @@
-__NUXT_JSONP__("/productos/crema-hidratante-sulderm-hydra-filler-intense", {data:[{}],fetch:{},mutations:[]});

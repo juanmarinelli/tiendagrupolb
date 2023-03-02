@@ -1,1 +1,0 @@
-__NUXT_JSONP__("/productos/duo-reparador-bruma-activadora", {data:[{}],fetch:{},mutations:[]});

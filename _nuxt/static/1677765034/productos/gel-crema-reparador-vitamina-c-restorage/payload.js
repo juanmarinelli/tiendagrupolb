@@ -1,1 +1,0 @@
-__NUXT_JSONP__("/productos/gel-crema-reparador-vitamina-c-restorage", {data:[{}],fetch:{},mutations:[]});

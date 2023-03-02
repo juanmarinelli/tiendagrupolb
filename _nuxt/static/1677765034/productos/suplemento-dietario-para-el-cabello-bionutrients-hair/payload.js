@@ -1,1 +1,0 @@
-__NUXT_JSONP__("/productos/suplemento-dietario-para-el-cabello-bionutrients-hair", {data:[{}],fetch:{},mutations:[]});

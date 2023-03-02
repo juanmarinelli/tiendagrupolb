@@ -1,1 +1,0 @@
-__NUXT_JSONP__("/productos/emulsion-de-limpieza-cleanskin", {data:[{}],fetch:{},mutations:[]});

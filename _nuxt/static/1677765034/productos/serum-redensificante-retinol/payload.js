@@ -1,1 +1,0 @@
-__NUXT_JSONP__("/productos/serum-redensificante-retinol", {data:[{}],fetch:{},mutations:[]});

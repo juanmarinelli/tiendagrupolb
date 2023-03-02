@@ -1,1 +1,0 @@
-__NUXT_JSONP__("/productos/espuma-limpiadora-extra-suave-mousse-cleanser", {data:[{}],fetch:{},mutations:[]});

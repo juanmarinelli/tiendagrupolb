@@ -1,1 +1,0 @@
-__NUXT_JSONP__("/productos/serum-efecto-relleno", {data:[{}],fetch:{},mutations:[]});

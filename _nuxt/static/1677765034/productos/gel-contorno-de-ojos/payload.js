@@ -1,1 +1,0 @@
-__NUXT_JSONP__("/productos/gel-contorno-de-ojos", {data:[{}],fetch:{},mutations:[]});

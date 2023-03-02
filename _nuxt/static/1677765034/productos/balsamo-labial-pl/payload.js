@@ -1,1 +1,0 @@
-__NUXT_JSONP__("/productos/balsamo-labial-pl", {data:[{}],fetch:{},mutations:[]});

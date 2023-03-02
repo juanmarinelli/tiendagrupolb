@@ -1,1 +1,0 @@
-__NUXT_JSONP__("/productos/emulsion-lift", {data:[{}],fetch:{},mutations:[]});

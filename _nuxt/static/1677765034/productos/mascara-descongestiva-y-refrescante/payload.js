@@ -1,1 +1,0 @@
-__NUXT_JSONP__("/productos/mascara-descongestiva-y-refrescante", {data:[{}],fetch:{},mutations:[]});

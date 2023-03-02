@@ -1,1 +1,0 @@
-__NUXT_JSONP__("/productos/crema-facial-con-furfuriladenina-y-acido-hialuronico", {data:[{}],fetch:{},mutations:[]});

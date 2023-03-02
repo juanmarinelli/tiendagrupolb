@@ -1,1 +1,0 @@
-__NUXT_JSONP__("/crema-de-manos", {data:[{}],fetch:{},mutations:[]});

@@ -1,1 +1,0 @@
-__NUXT_JSONP__("/productos/suero-intensivo-multiaccion-niacinamide", {data:[{}],fetch:{},mutations:[]});

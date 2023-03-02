@@ -1,1 +1,0 @@
-__NUXT_JSONP__("/productos/emulsion-peptine-nutra-dry", {data:[{}],fetch:{},mutations:[]});

@@ -1,1 +1,0 @@
-__NUXT_JSONP__("/productos/kit-accesorios-pelo", {data:[{}],fetch:{},mutations:[]});

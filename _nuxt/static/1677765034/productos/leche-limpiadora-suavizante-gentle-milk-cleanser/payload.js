@@ -1,1 +1,0 @@
-__NUXT_JSONP__("/productos/leche-limpiadora-suavizante-gentle-milk-cleanser", {data:[{}],fetch:{},mutations:[]});

@@ -1,1 +1,0 @@
-__NUXT_JSONP__("/productos/scrunchie-parisina", {data:[{}],fetch:{},mutations:[]});

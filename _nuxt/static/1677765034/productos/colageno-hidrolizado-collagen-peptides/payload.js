@@ -1,1 +1,0 @@
-__NUXT_JSONP__("/productos/colageno-hidrolizado-collagen-peptides", {data:[{}],fetch:{},mutations:[]});

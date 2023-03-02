@@ -1,1 +1,0 @@
-__NUXT_JSONP__("/mascara-facial", {data:[{}],fetch:{},mutations:[]});

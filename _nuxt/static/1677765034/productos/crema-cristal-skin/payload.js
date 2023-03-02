@@ -1,1 +1,0 @@
-__NUXT_JSONP__("/productos/crema-cristal-skin", {data:[{}],fetch:{},mutations:[]});

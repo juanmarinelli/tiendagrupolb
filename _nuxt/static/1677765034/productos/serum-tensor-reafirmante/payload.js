@@ -1,1 +1,0 @@
-__NUXT_JSONP__("/productos/serum-tensor-reafirmante", {data:[{}],fetch:{},mutations:[]});

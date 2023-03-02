@@ -1,1 +1,0 @@
-__NUXT_JSONP__("/productos/serum-contorno-de-ojos-vitamina-c", {data:[{}],fetch:{},mutations:[]});

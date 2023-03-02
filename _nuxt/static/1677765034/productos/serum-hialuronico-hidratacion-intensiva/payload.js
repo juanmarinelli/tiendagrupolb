@@ -1,1 +1,0 @@
-__NUXT_JSONP__("/productos/serum-hialuronico-hidratacion-intensiva", {data:[{}],fetch:{},mutations:[]});

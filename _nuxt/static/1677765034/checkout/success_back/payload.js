@@ -1,1 +1,0 @@
-__NUXT_JSONP__("/checkout/success_back", {data:[{}],fetch:{},mutations:[]});

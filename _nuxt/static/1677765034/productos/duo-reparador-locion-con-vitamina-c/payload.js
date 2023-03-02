@@ -1,1 +1,0 @@
-__NUXT_JSONP__("/productos/duo-reparador-locion-con-vitamina-c", {data:[{}],fetch:{},mutations:[]});

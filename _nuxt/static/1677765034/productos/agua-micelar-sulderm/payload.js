@@ -1,1 +1,0 @@
-__NUXT_JSONP__("/productos/agua-micelar-sulderm", {data:[{}],fetch:{},mutations:[]});

@@ -1,1 +1,0 @@
-__NUXT_JSONP__("/admin/ProductoForm", {data:[{}],fetch:{},mutations:[]});

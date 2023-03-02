@@ -1,1 +1,0 @@
-__NUXT_JSONP__("/productos/crema-nutritiva-y-humectante-sulderm-hydra-age-%2B", {data:[{}],fetch:{},mutations:[]});

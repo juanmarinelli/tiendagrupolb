@@ -1,1 +1,0 @@
-__NUXT_JSONP__("/productos/crema-gel-filler-like", {data:[{}],fetch:{},mutations:[]});

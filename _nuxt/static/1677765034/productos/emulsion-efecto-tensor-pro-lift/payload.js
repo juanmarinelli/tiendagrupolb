@@ -1,1 +1,0 @@
-__NUXT_JSONP__("/productos/emulsion-efecto-tensor-pro-lift", {data:[{}],fetch:{},mutations:[]});

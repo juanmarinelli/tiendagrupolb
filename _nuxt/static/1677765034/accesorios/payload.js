@@ -1,1 +1,0 @@
-__NUXT_JSONP__("/accesorios", {data:[{}],fetch:{},mutations:[]});
